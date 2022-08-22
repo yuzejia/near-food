@@ -1,6 +1,7 @@
 {
 	"pages": [
-		"pages/index/index",
+        "pages/home/home",
+        "pages/index/index",
 		"pages/map/map"
 	],
 	"permission": {
@@ -11,7 +12,7 @@
 	"window": {
 		"backgroundTextStyle": "light",
 		"navigationBarBackgroundColor": "#fff",
-		"navigationBarTitleText": "LBS定位插件",
+		"navigationBarTitleText": "",
 		"navigationBarTextStyle": "black"
 	},
 	"style": "v2",
