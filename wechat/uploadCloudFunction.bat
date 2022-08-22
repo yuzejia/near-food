@@ -1,0 +1,1 @@
+"D:\software\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-9g9tyr94d7778a5c --n lbs_server --r --project "D:\my-code\near-food\wechat" --report_first --report
